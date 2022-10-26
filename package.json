@@ -1,0 +1,19 @@
+{
+  "name": "e-com-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-ohit-B-isht/e-com-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-ohit-B-isht/e-com-server/issues"
+  },
+  "homepage": "https://github.com/R-ohit-B-isht/e-com-server#readme"
+}
